@@ -1,0 +1,1 @@
+{"workers":[{"id":"alex","skills":["packing","driving"],"slots":[1,2]},{"id":"sam","skills":["packing"],"slots":[1]}],"jobs":[{"id":"pack","skill":"packing","slots":[1]},{"id":"deliver","skill":"driving","slots":[1,2]}]}
